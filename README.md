@@ -19,7 +19,4 @@ After encountering the Shiny Pokemon, the Loop breaks and saves state into the e
   <div class="column">
     <img src="Images/Giratina.png" alt="Snow" style="width:100%">
   </div>
-  <div class="column">
-    <img src="Images/Combee.png" alt="Forest" style="width:100%">
-  </div>
 </div>
