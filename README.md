@@ -8,3 +8,4 @@ This repository contains a script that can automate the task of soft-resetting t
 The script has been tested and works successfully.
 
 
+![](Images/Combee-GIF.gif)
