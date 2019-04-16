@@ -7,4 +7,3 @@ Players spend hours Shiny Hunting Pokemon, and are successful after thousands of
 This repository contains a script that can automate the task of soft-resetting the game until a Shiny is encountered.
 The script has been tested and works successfully.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Dvrn4NR"><a href="//imgur.com/Dvrn4NR">Busy as a Bee</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
