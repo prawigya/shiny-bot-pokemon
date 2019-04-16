@@ -11,3 +11,15 @@ The script has been tested and works successfully.
 <p align="center">
   <img src="https://media.giphy.com/media/ekeaFiuGDE2vdIqfIy/giphy.gif">
 </p>
+
+After encountering the Shiny Pokemon, the Loop breaks and saves state into the emulator. The pokemon can then be caught and you finally end up with a Shiny.
+
+
+<div class="row">
+  <div class="column">
+    <img src="Images/Giratina.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Images/Combee.png" alt="Forest" style="width:100%">
+  </div>
+</div>
