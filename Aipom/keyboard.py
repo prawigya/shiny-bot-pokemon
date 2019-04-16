@@ -3,8 +3,8 @@ from pynput.keyboard import Key, Controller
 import functions as fn
 import cv2
 
-non_shiny1 = cv2.imread('referencemale_night.png')
-non_shiny2 = cv2.imread('referencefemale_night.png')
+non_shiny1 = cv2.imread('referencemale.png')
+non_shiny2 = cv2.imread('referencefemale.png')
 
 keyboard = Controller()
 c = 0
