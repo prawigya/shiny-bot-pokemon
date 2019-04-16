@@ -7,3 +7,4 @@ Players spend hours Shiny Hunting Pokemon, and are successful after thousands of
 This repository contains a script that can automate the task of soft-resetting the game until a Shiny is encountered.
 The script has been tested and works successfully.
 
+![](https://gph.is/g/a92eNBZ)
